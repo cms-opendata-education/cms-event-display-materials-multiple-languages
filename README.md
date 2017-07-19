@@ -3,6 +3,6 @@ This repository contains material for classroom activities using CMS event displ
 
 # Contributing
 Contributions are encouraged and welcome! Please name your files in following form: <br>
-[LANGUAGE ABBREVIATION]-[activityName].[format] 
+[LANGUAGE ABBREVIATION]-[activityName].[format] <br>
 e.g. EN-eventDisplayTutorial.pdf
 
