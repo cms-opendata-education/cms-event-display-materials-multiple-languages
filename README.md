@@ -7,9 +7,9 @@ This material is made available under a CC-BY licence https://creativecommons.or
 You can download single files by selecting a file and clicking _Download_ button on the right. To download the whole repository as ZIP, click _Clone or download_ at the front page.     
 
 ## Contributing
-Contributions are encouraged and welcome! To contribute, see our general [Contributing guide](https://github.com/cms-opendata-education/cms-jupyter-materials-english/blob/master/Contributing.rst) or send an email to 
+Contributions are encouraged and welcome! To contribute, see our general [Contributing guide](https://github.com/cms-opendata-education/cms-opendata-education/blob/master/Contributing.rst) or send an email to 
 <br>
-![test](address.png)
+![support](https://github.com/cms-opendata-education/cms-opendata-education/blob/master/supportemail.png)
 
 If you create new files, please name them in following form: <br>
 [LANGUAGE ABBREVIATION]-[activityName].[format] <br>
